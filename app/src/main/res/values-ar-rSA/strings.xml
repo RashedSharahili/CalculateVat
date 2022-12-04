@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب الضريبة</string>
+    <string name="coast_or_total_price">التكلفة أو السعر الإجمالي</string>
+    <string name="select_vat_presentage">حدد نسبة ضريبة القيمة المضافة</string>
+    <string name="_10">١٠٪</string>
+    <string name="_15">١٥٪</string>
+    <string name="_20">٢٠٪</string>
+    <string name="round_up_total">تقريب المجموع؟؟</string>
+    <string name="calculate_vat">حساب الضريبة</string>
+    <string name="tv_total_vat">مجموع المبلغ: %s</string>
+</resources>
